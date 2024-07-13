@@ -1,14 +1,14 @@
  # BRUNO LUIS SANTINATO
  
-<img src="location.png" alt="drawing" width="20"/> Rua 25, 2614 - Jardim São Paulo - Rio Claro - São Paulo/SP CEP 13503-010
+<img src="images/location.png" alt="drawing" width="20"/> Rua 25, 2614 - Jardim São Paulo - Rio Claro - São Paulo/SP CEP 13503-010
 
-<img src="phone.png" alt="drawing" width="20"/> 11 98210-3750 / 11 9 4870-1145
+<img src="images/phone.png" alt="drawing" width="20"/> 11 98210-3750 / 11 9 4870-1145
 
-<img src="mail.png" alt="drawing" width="20"/> <bruno.santinato@gmail.com>
+<img src="images/mail.png" alt="drawing" width="20"/> <bruno.santinato@gmail.com>
 
-<img src="linkedin-logo.png" alt="drawing" width="20"/> <https://br.linkedin.com/in/bruno-luis-santinato-7b31a444>
+<img src="images/linkedin-logo.png" alt="drawing" width="20"/> <https://br.linkedin.com/in/bruno-luis-santinato-7b31a444>
 
-<img src="credly_logo_icon.png" alt="drawing" width="20"/> <https://www.credly.com/users/bruno-santinato>
+<img src="images/credly_logo_icon.png" alt="drawing" width="20"/> <https://www.credly.com/users/bruno-santinato>
 
 ## Resumo profissional
 Profissional de Infraestrutura de Servidores Linux e Unix com mais de 15 anos de experiência em administração, configuração e manutenção de servidores em ambientes de alta disponibilidade. Experiência comprovada na utilização de ferramentas de automação como Ansible, proporcionando eficiência e consistência na gestão de infraestruturas complexas. Habilidades abrangentes em virtualização, segurança de sistemas, otimização de desempenho e resolução de problemas. Capacidade de trabalhar de forma proativa, colaborando com equipes multifuncionais para alcançar objetivos estratégicos e operacionais.
@@ -54,8 +54,6 @@ Formação em: setembro de 2014
 - Fundamentals of IBM Cloud Associate SRE V2
 
 - Site Reliability Engineer Profession Certification – Experienced
-
-- GitHub Foundations
 
 ## Histórico professional
 **IBM Brazil** Maio 2022 – maio 2024
