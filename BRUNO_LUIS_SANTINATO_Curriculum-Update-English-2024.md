@@ -11,6 +11,7 @@
 
 <img src="images/credly_logo_icon.png" alt="drawing" width="20"/> <https://www.credly.com/users/bruno-santinato>
 
+---
 ## Professional Summary
 Linux and Unix Server Infrastructure Professional with over 15 years of experience in administration, configuration, and maintenance of servers in high availability environments. Proven experience in using automation tools like Ansible, providing efficiency and consistency in managing complex infrastructures. Comprehensive skills in virtualization, system security, performance optimization, and troubleshooting. Ability to work proactively, collaborating with cross-functional teams to achieve strategic and operational goals.
 ## Languages
