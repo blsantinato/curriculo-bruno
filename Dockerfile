@@ -1,6 +1,7 @@
-FROM python:3
+FROM ubuntu:latest
 WORKDIR /mnt/e/Backup-IBM-2024/GitHub/curriculo-bruno
 COPY requirements.txt ./
+RUN apt-get update && apt-get install -y python3 python3-pip
 RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 6419
 COPY . .
