@@ -174,5 +174,6 @@ São Paulo - On-Site
 - Opening tickets to support end users experiencing issues with their computers (Notebooks and Desktops).
 
   ***Job promotion: Software Server Support Analyst - HP-UX and Linux***
+
 - Opening incidents to investigate faults in HP-UX and Linux operating systems for HP Proliant, HP PA-RISC, Itanium servers.
 - Handling problems related to general services in HP-UX and Linux systems.
