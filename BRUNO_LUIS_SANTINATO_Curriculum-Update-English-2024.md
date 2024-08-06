@@ -57,6 +57,28 @@ Graduated in: September 2014
 
 - Site Reliability Engineer Profession Certification – Experienced
 
+## Courses
+- LinuxForce Institute (2012 - 2014)
+  - Linux Administrator LPI 1
+  - Linux Engineer LPI 2
+  - Linux Network Engineer
+  - Pentest Professional - Security Hacker
+  - Hardening Servers - ISO 27002
+
+- Stefanini (2019 - 2021)
+  - Monitoring tools with Grafana and Zabbix
+  - Basic commands with Middlewares (WebSphere, MQ and others IBM Products)
+
+- IBM Company (2022 - 2024)
+  - RedHat Openshift Administration 
+  - RedHat Container Administration
+  - RedHat Automation Platform (Ansible)
+  - Monitoring Tool with Dynatrace
+
+- In Progress Courses
+  - AWS Cloud Practitioner Certification (CLF-C02)
+  - Programming Languages with Python
+
 ## Professional History
 **IBM Brazil** May 2022 – May 2024
 
@@ -71,6 +93,17 @@ Hortolândia – Remote
 - Implementation of RedHat Linux Repository used extensively – RedHat Satellite.
 - Monthly and occasional change management.
 - Vulnerability fixes using Nessus as a provider.
+- Solve Network issues and apply Best Practices accordinally with company security policies
+- Daily stand-up meetings to discuss ongoing projects, tasks, and any potential blockers. 
+- Check the monitoring dashboards and review any alerts that occurred overnight. Investigate and resolve any critical incidents, ensuring the stability of the infrastructure.
+- Conduct post-mortem analyses of recent incidents to identify root causes and preventive measures. Document findings and communicate them to the team.
+- Meet with development teams to discuss new features and deployments. Provide feedback on how to design and implement scalable and reliable systems.
+- Write and maintain scripts for automating routine tasks, such as deployments, monitoring setups, and infrastructure provisioning. Focus on enhancing the efficiency and reliability of these processes.
+- Analyze system performance metrics and make recommendations for improvements.
+- Review code changes submitted by other team members, ensuring they adhere to best practices for reliability and performance
+- Work on maintaining and updating configurations using tools like Terraform, Ansible
+- Assess the current infrastructure capacity and plan for future growth
+- Document processes, incident reports, and any new automation scripts or tools created
 
 **Infosys Consulting Ltda.** August 2021 - August 2022 
 
