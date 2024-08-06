@@ -55,6 +55,24 @@ Formação em: setembro de 2014
 
 - Site Reliability Engineer Profession Certification – Experienced
 
+## Cursos
+- Instituto Linux Force:
+    - Administração Linux LPI 1
+    - Engenheiro Linux LPI 2
+    - Engenheiro de Redes Linux
+    - Profissional Pentest - Segurança Hacker
+    - Blindagem de Servidores - ISO 27002
+- Monitoração com Zabbix e Grafana
+- Comandos Básicos com Middleware (WebSphere, MQ e outros produtos IBM)
+- RedHat OpenShift Administration
+- RedHat Container Administration
+- RedHat Automation Platform (Ansible)
+- Monitoring Tool with Dynatrace
+
+   Cursos em progresso:
+    - AWS Cloud Practitioner Certification (CLF-C02)
+    - Curso de Programação Python
+    
 ## Histórico professional
 **IBM Brazil** Maio 2022 – maio 2024
 
