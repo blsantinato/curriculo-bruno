@@ -1,6 +1,5 @@
- 
 # BRUNO LUIS SANTINATO
- 
+
 <img src="images/location.png" alt="drawing" width="20"/> Rua 25, 2614 - Jardim São Paulo - Rio Claro - São Paulo/SP CEP 13503-010
 
 <img src="images/phone.png" alt="drawing" width="20"/> 11 98210-3750 / 11 9 4870-1145
