@@ -21,7 +21,7 @@ def convert_html_to_pdf(html_file, pdf_file):
 
 if __name__ == "__main__":
         md_file = "BRUNO_LUIS_SANTINATO_Curriculo-Atualizado-2024.md"
-        html_file = "BRUNO_LUIS_SANTINATO_Curriculo-Atualizado-2024.html"
-        pdf_file = "BRUNO_LUIS_SANTINATO_Curriculo-Atualizado-2024.pdf"
+        html_file = "BRUNO_LUIS_SANTINATO_Curriculo-Atualizado-2026.html"
+        pdf_file = "BRUNO_LUIS_SANTINATO_Curriculo-Atualizado-2026.pdf"
         convert_md_to_html(md_file, html_file)
         convert_html_to_pdf(html_file, pdf_file)

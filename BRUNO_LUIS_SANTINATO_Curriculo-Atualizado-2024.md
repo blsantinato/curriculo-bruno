@@ -29,7 +29,8 @@ Formação em: setembro de 2014
 - Docker Essentials
 - Fundamentals of IBM Cloud Associate SRE V2
 - Site Reliability Engineer Profession Certification – Experienced
-    
+
+<br> <br />
 
 ## Cursos
 - Instituto Linux Force:
