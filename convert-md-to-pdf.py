@@ -20,8 +20,8 @@ def convert_html_to_pdf(html_file, pdf_file):
             print(f"Conversion to PDF failed: {str(e)}")
 
 if __name__ == "__main__":
-        md_file = "BRUNO_LUIS_SANTINATO_Curriculum-Update-English-2024.md"
-        html_file = "BRUNO_LUIS_SANTINATO_Curriculum-Update-English-2024.html"
-        pdf_file = "BRUNO_LUIS_SANTINATO_Curriculum-Update-English-2024.pdf"
+        md_file = "BRUNO_LUIS_SANTINATO_Curriculo-Atualizado-2024.md"
+        html_file = "BRUNO_LUIS_SANTINATO_Curriculo-Atualizado-2024.html"
+        pdf_file = "BRUNO_LUIS_SANTINATO_Curriculo-Atualizado-2024.pdf"
         convert_md_to_html(md_file, html_file)
         convert_html_to_pdf(html_file, pdf_file)
