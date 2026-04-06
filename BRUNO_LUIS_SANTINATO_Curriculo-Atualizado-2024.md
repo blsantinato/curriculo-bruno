@@ -1,6 +1,6 @@
 # BRUNO LUIS SANTINATO
 
-<img src="images/location.png" alt="drawing" width="20"/> Rua 25, 2614 - Jardim São Paulo - Rio Claro - São Paulo/SP CEP 13503-010
+<img src="images/location.png" alt="drawing" width="20"/> Rio Claro - São Paulo/SP
 
 <img src="images/phone.png" alt="drawing" width="20"/> 11 98210-3750 / 11 9 4870-1145
 
@@ -18,43 +18,18 @@ Português: Nativo
 
 Inglês: Avançado
 ## Habilidades/Competências
-
-- Administração e Suporte de Servidores Linux (Red Hat, CentOs, Ubuntu) e Unix (AIX, Solaris e HP-UX)
-
-- Implementação e Gerenciamento de Ferramentas de Automação com Ansible para configuração e Orquestração de infraestrutura
-
-- Experiência em virtualização com VMware, KVM e outras tecnologias de Hypervisor
-
-- Configuração e manutenção de serviço de rede (DNS, DHCP, NFS, FTP)
-
-- Monitoramento e otimização de desempenho de servidores e serviços utilizando Ferramentas como Nagios, Zabbix e Dynatrace
-
-- Implementação de práticas de segurança, incluindo configurações de firewalls, controle de acesso e aplicações de patches em larga escala.
-
-- Backup e Recuperação de Sistemas utilizando TSM, Bacula e outros.
-
-- Criação e manutenção de scripts em Shell Script 
-
-- Experiência com containers e orquestração de containers (Docker, Kubernetes)
-
-- Excelente capacidade de resolução de problemas e habilidade analítica para entregar o melhor resultado
-
-- Trabalho em equipe com experiências em ambientes ágeis e colaborativos usando Scrum/Kanban (Jira, Trello, Planner, etc.)
-
+Linux/Unix (RedHat, SUSE, AIX, HP-UX) | OpenShift virtualization | Docker | Ansible | Shell Script | Cloud (IBM, AWS, Azure) | Monitoring (Zabbix, Dynatrace,Nagios) | VMware
 
 ## Formação acadêmica
-UNIP – Universidade Paulista – Graduação em Análise e Desenvolvimento de Sistemas
-
+UNIP – Universidade Paulista – Graduação em Análise e Desenvolvimento de Sistemas.
 Formação em: setembro de 2014
+
 ## Certificações
 - Azure Fundamentals (AZ-900)
-
 - Docker Essentials
-
 - Fundamentals of IBM Cloud Associate SRE V2
-
 - Site Reliability Engineer Profession Certification – Experienced
-
+    
 ## Cursos
 - Instituto Linux Force:
     - Administração Linux LPI 1
@@ -72,7 +47,17 @@ Formação em: setembro de 2014
    Cursos em progresso:
     - AWS Cloud Practitioner Certification (CLF-C02)
     - Curso de Programação Python
-    
+
+## Projetos 
+- Consultor de Infraestrutura Unix - Ambev Tech
+
+    - Gerenciamento em larga escala de ambientes missão crítica Unix/Linux. 
+    - Support a Clusters AIX e Linux (Pacemaker e PowerHA)
+    - Automação de tarefas com Ansible, Shell Script e Rundeck
+    - Monitoração customizada para itens usando Zabbix
+    - Análise de causa raiz e engajamento com fornecedores.
+    - Colaboração entre os times ao redor do globo. 
+
 ## Histórico professional
 **IBM Brazil** Maio 2022 – maio 2024
 
