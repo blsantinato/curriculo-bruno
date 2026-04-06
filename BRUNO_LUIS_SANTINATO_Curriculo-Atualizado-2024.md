@@ -30,6 +30,7 @@ Formação em: setembro de 2014
 - Fundamentals of IBM Cloud Associate SRE V2
 - Site Reliability Engineer Profession Certification – Experienced
     
+
 ## Cursos
 - Instituto Linux Force:
     - Administração Linux LPI 1
