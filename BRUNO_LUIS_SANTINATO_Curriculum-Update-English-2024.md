@@ -1,7 +1,7 @@
  
 # BRUNO LUIS SANTINATO
  
-<img src="images/location.png" alt="drawing" width="20"/> 25th Street, 2614 - Jardim São Paulo - Rio Claro - São Paulo/SP Zip Code 13503-010
+<img src="images/location.png" alt="drawing" width="20"/> Rio Claro - São Paulo/SP
 
 <img src="images/phone.png" alt="drawing" width="20"/> 11 98210-3750 / 11 9 4870-1145
 
@@ -21,28 +21,8 @@ Portuguese: Native
 English: Advanced
 ## Skills/Competencies
 
-- Administration and Support of Linux Servers (Red Hat, CentOS, Ubuntu) and Unix Servers (AIX, Solaris, HP-UX)
-
-- Implementation and Management of Automation Tools with Ansible for infrastructure configuration and orchestration
-
-- Experience in virtualization with VMware, KVM, and other Hypervisor technologies
-
-- Configuration and maintenance of network services (DNS, DHCP, NFS, FTP)
-
-- Monitoring and performance optimization of servers and services using tools like Nagios, Zabbix, and Dynatrace
-
-- Implementation of security practices, including firewall configurations, access control, and large-scale patch applications
-
-- System Backup and Recovery using TSM, Bacula, and others
-
-- Creation and maintenance of Shell Script scripts
-
-- Experience with containers and container orchestration (Docker, Kubernetes)
-
-- Excellent problem-solving and analytical skills to deliver the best results
-
-- Teamwork experience in agile and collaborative environments using Scrum/Kanban (Jira, Trello, Planner, etc.)
-
+Linux/Unix (RedHat, SUSE, AIX, HP-UX) | OpenShift virtualization | Docker | Ansible | Shell Script | Cloud (IBM, AWS, Azure)
+| Monitoring (Zabbix, Dynatrace,Nagios) | VMware
 
 ## Academic Background
 UNIP – Universidade Paulista – Bachelor's Degree in Systems Analysis and Development
@@ -50,11 +30,8 @@ UNIP – Universidade Paulista – Bachelor's Degree in Systems Analysis and Dev
 Graduated in: September 2014
 ## Certifications
 - Azure Fundamentals (AZ-900)
-
 - Docker Essentials
-
 - Fundamentals of IBM Cloud Associate SRE V2
-
 - Site Reliability Engineer Profession Certification – Experienced
 
 ## Courses
@@ -78,6 +55,15 @@ Graduated in: September 2014
 - In Progress Courses
   - AWS Cloud Practitioner Certification (CLF-C02)
   - Programming Languages with Python
+
+  ## Projects
+- Infrastructure Unix Consultant - Ambev Tech
+    - Manage High Scale and Critical Mision Unix and Linux environments. 
+    - Support AIX Clusters and Linux (PowerHA and Pacemaker)
+    - Automate tasks with Ansible, Shell Script and Rundeck 
+    - Custom monitor with Zabbix 
+    - Root Cause analysis 
+    - Colaborate and engage with external teams
 
 ## Professional History
 **IBM Brazil** May 2022 – May 2024
